@@ -1,3 +1,5 @@
+<img src="https://github.com/um-postolowicz/um-postolowicz/blob/main/banner.jpg"/>
+
 ### Hi there 👋
 
 <!--
