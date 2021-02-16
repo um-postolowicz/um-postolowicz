@@ -11,5 +11,5 @@ I am currently learning HTML, CSS, JavaScript and ReactJS.
 <br/>
 I would love to learn Vue, Norwegian and Italian language in the future.
 <br/>
-Interested in aviation :airplane: and fantasy books :dragon:.
+Interested in aviation :airplane:, cross stitching and fantasy books :dragon:.
 
