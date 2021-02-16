@@ -5,7 +5,8 @@
 --!>
 
 I'm Ula, FrontEnd Developer from Poland.
-I am currently learning HTML, CSS, JavaScript and ReactJS. 
-
+<br/>
+I am currently learning HTML, CSS, JavaScript and ReactJS.
+<br/>
 Interested in aviation :airplane: and fantasy books :dragon:.
 
